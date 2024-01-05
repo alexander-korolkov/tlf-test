@@ -4,7 +4,7 @@
 
  echo check_the_number_is_prime($no);
  
- function check_the_number_is_prime( $no ) {
+ function check_the_number_is_prime(int $no ) {
  	
   if ($no < 2) {
  	return 0;
