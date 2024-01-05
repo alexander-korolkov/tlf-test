@@ -9,10 +9,6 @@
   if ($no < 2) {
  	return 0;
   }	
-  
-  if ($no === 2) {
-  	return 3;
-  }
    
   $is_prime = true;
 
